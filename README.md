@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Unsettled-Corp/.github/main/profile/wordmark.svg" width="480" alt="Unsettled Corp">
+  <img src="/wordmark.svg" width="480" alt="Unsettled Corp">
 </p>
 
 <p align="center"><b>Research. Security. Discretion.</b></p>
